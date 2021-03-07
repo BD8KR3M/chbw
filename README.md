@@ -9,7 +9,7 @@
 
 
 
-<p align="center"><a href="https://github.com/bd8kr3m/chbw"><img src="https://user-images.githubusercontent.com/57522482/110247571-1b50c700-7f97-11eb-8c3d-a37e114153fa.jpg" height='195' alt="HAT-ABM"></p>
+<p align="center"><a href="https://github.com/bd8kr3m/chbw"><img src="https://user-images.githubusercontent.com/57522482/110247571-1b50c700-7f97-11eb-8c3d-a37e114153fa.jpg" height='495' alt="HAT-ABM"></p>
 
 
 <br>
