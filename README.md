@@ -15,3 +15,38 @@
 <br>
 
 ![PicsArt_03-07-10 43 25](https://user-images.githubusercontent.com/57522482/110247544-f3616380-7f96-11eb-8e2a-9601c8367b8b.jpg)
+
+
+
+<b>🔥Tool install For Termux:</b>
+
+pkg update -y
+
+pkg install git php bash curl openssh wget -y
+
+git clone https://github.com/bd8kr3m/chbw.git
+
+cd chbw
+
+chmod +x ngrok camp.sh
+
+
+bash camp.sh
+
+
+<b>OK ENJOY 😍🥰</b>
+
+
+
+
+
+
+<h4>Follow Me:
+  
+  
+Facebook:https://m.Facebook.com/hackerabm<br>
+
+
+YouTube: suspend 💔<br>
+
+Don't Copy My Script</h4>
